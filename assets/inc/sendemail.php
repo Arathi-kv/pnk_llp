@@ -32,7 +32,7 @@ try {
 			$template = str_replace('{{email}}', $senderEmail, $template);
 
 
-			$mail->addAddress('office@pnklegal.in'); // Add admin email
+			$mail->addAddress('arathi@signroots.com'); // Add admin email
 			// Add CC or BCC if needed
 			// $mail->addCC('name@example.com', 'name');
 			// $mail->addBCC('name@example.com', 'name');
